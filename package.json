@@ -1,0 +1,11 @@
+{
+	"type": "module",
+	"devDependencies": {
+		"@wdio/cli": "^9.19.2",
+		"@wdio/browser-runner": "^9.19.2",
+		"@wdio/mocha-framework": "^9.19.2"
+	},
+	"scripts": {
+		"test": "wdio run ./wdio.conf.js"
+	}
+}
