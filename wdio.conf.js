@@ -13,7 +13,6 @@ export const config = {
 	runner: [
 		'browser',
 		{
-			preset: process.env.WDIO_PRESET,
 			coverage: {
 				enabled: true,
 			},
