@@ -10,7 +10,7 @@ npm run test
 # Terminal Output
 
 ```
-$npm run test
+$ npm run test
 
 > test
 > wdio run ./wdio.conf.js
